@@ -37,9 +37,9 @@ E por fim, entre no arquivo da classe `CardapioApllication` para executar o proj
 
 Para realizar a integração com o Frontend, você pode clonar o projeto e rodar localmente, ou desenvolver você mesmo seguindo o tutorial no Youtube.
 
-👉 [Desenvolvendo o Frontend com React e Typescript](https://www.youtube.com/watch?v=lUVureR5GqI&t=239s)
+👉 [EM BREVE: Desenvolvendo o Frontend com React e Typescript](https://www.youtube.com/@kipperdev)
 
-👉 [Link do repositório](https://github.com/Fernanda-Kipper/backend-cardapio-digital)
+👉 [Link do repositório](https://github.com/Fernanda-Kipper/frontend-cardapio-digital)
 
 
 <h2 id="related">📝 Licença</h2>
